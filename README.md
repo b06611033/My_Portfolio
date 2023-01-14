@@ -24,7 +24,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Deployment
 
-Create git repository and push to GitHub
+1. Create git repository and push to GitHub
 
 ```
 git init
@@ -34,8 +34,8 @@ git remote add origin remote_repository_URL
 git push -u origin main
 ```
 
-Create Netlify account and link it with the repository.\
-Follow the instructions on Netlify, then your app will be automatically deployed.
+2. Create Netlify account and link it with the repository.\
+3. Follow the instructions on Netlify, then your app will be automatically deployed.
 
 
 
