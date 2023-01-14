@@ -34,7 +34,7 @@ git remote add origin remote_repository_URL
 git push -u origin main
 ```
 
-2. Create Netlify account and link it with the repository.\
+2. Create Netlify account and link it with the repository.
 3. Follow the instructions on Netlify, then your app will be automatically deployed.
 
 
