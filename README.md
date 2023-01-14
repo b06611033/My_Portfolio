@@ -4,7 +4,7 @@ My personal website developed in React. You can visit the page: [https://bryan-h
 
 ## Run on local host
 
-### 'npm install'
+### `npm install`
 
 Installs all the packages needed.
 
@@ -24,7 +24,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Deployment
 
-Create git repository and push to GitHub
+###Create git repository and push to GitHub
 
 ```
 git init
@@ -34,6 +34,8 @@ git remote add origin remote_repository_URL
 git push -u origin main
 ```
 
-Create Netlify account and link it with the repository
+Create Netlify account and link it with the repository.\
+Follow the instructions, then your app will be automatically deployed.
+
 
 
