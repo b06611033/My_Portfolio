@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-My personal website. Deployed on [Netlify](https://bryan-hou-portfolio.netlify.app/).
+My personal website. You can visit the page at: [https://bryan-hou-portfolio.netlify.app/](https://bryan-hou-portfolio.netlify.app/).
 
 ## Available Scripts
 
