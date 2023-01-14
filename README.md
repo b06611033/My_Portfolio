@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My personal website. Deployed on [Netlify](https://bryan-hou-portfolio.netlify.app/).
 
 ## Available Scripts
 
