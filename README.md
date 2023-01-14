@@ -26,12 +26,14 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 Create git repository and push to GitHub
 
-'''
+```
 git init
 git add .
 git commit -m "first commit"
 git remote add origin remote_repository_URL
 git push -u origin main
-'''
+```
+
+Create Netlify account and link it with the repository
 
 
