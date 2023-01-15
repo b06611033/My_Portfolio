@@ -9,10 +9,10 @@ export default function Extracurricular() {
             Extracurricular
           </h1>
           <p className="mb-8 text-gray-700 leading-relaxed">
-            I love playing soccer, and I was a soccer varsity team player in National Taiwan University from 2018-2021. <br />
-            I am a die hard Messi fan who supports FC Barcelona and PSG. <br />
-            I also enjoy wandering around cities, mountains and oceans on my Specialized Allez roadbike. <br />
-            I am looking forward to visit amazing landscapes in US with my bike. 
+            I love playing soccer, and I am a die hard Messi fan who supports FC Barcelona and PSG. <br />
+            In 2018, I joined the soccer varsity team of National Taiwan University, and played as left wing/right back for 3 years. <br />
+            I also enjoy wandering around cities, mountains and oceans on my Specialized Allez road bike. <br />
+            I am looking forward to visiting amazing landscapes in US with my bike. 
           </p>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
