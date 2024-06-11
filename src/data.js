@@ -1,11 +1,11 @@
 export const projects = [
   {
     title: "Learning Management App",
-    subtitle: "Java Spring Boot, MySQL",
+    subtitle: "Spring Boot, MySQL, Docker, AWS",
     description:
       "A learning management app for user to manage schools, courses, todos, and diaries.",
     image: "./Learning_App.jpg",
-    link: "https://github.com/b06611033/Learning_Management_App",
+    link: "http://learning-app-env.eba-wg2z2akg.us-west-1.elasticbeanstalk.com/",
   },
   {
     title: "Breakout Clone Game",
@@ -24,12 +24,12 @@ export const projects = [
     link: "https://github.com/b06611033/Dog-Behavior-Detection-Using-IMU-and-Machine-Learning",
   },
   {
-    title: "Pipeline CPU with L1 Data Cache",
-    subtitle: "Verilog",
+    title: "Simple Operating System",
+    subtitle: "C/C++, Linux",
     description:
-      "A pipeline CPU that supports eleven instructions. It includes a level 1 data cache that uses LRU replacement policy",
-    image: "./Pipeline_CPU.png",
-    link: "https://github.com/b06611033/Pipelined-CPU-L1-Data-Cache",
+      "A Unix-based simple operating system with demand-paging virtual memory management, including two-level paging.",
+    image: "./OS.jpg",
+    link: "https://github.com/b06611033/Mini_Operating_System",
   },
 ];
 
@@ -43,7 +43,7 @@ export const skills = [
   "Spring Boot",
   "React",
   "OpenCV",
-  "Machine Learning",
+  "AWS",
   "Git",
   "Docker",
 ];

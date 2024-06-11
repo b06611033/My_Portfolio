@@ -9,9 +9,9 @@ export default function About() {
             Hi, I'm Bryan!
           </h1>
           <p className="mb-8 text-white leading-relaxed">
-            I am currently studying Computer Science at Texas A&M University. 
-            I enjoy developing software, and I have strong interest in backend development and image processing.
-            I also like outdoor activities, including soccer, hiking and biking.
+            I have recently graduated from Texas A&M University with a master's degree in Computer Science. 
+            I enjoy developing software, and have strong interest in web development and Artificial Intelligence.
+            I'm seeking 2024 entry-level software engineer opportunity, feel free to contact me!
           </p>
           <div className="flex justify-center">
             <a
