@@ -21,8 +21,6 @@ export default function Experience() {
         </div>
         <div className="flex flex-wrap -m-4">
           <h1 className="sm:text-2xl text-2xl font-small text-center title-font mb-4 text-white">
-            <br />
-            <br />
             Software Engineer Intern     
           </h1>
           <p className="mb-8 leading-relaxed text-white">
