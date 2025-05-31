@@ -9,9 +9,9 @@ export default function About() {
             Hi, I'm Bryan!
           </h1>
           <p className="mb-8 text-white leading-relaxed">
-            I have recently graduated from Texas A&M University with a master's degree in Computer Science. 
-            I enjoy developing software, and have strong interest in web development and Artificial Intelligence.
-            I'm seeking 2024 entry-level software engineer opportunity, feel free to contact me!
+            I am a software engineer at NetApp with a Computer Science degree from Texas A&M University. 
+            I enjoy writing code, and have gained proficiency in system programming from my experience at NetApp.
+            My interest includes Operating System, Backend Development, and Artificial Intelligence, feel free to contact me!
           </p>
           <div className="flex justify-center">
             <a

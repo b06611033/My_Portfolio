@@ -8,9 +8,21 @@ export default function Experience() {
           <h1 className="sm:text-4xl text-3xl font-medium text-center title-font mb-4 text-white">
             Experience
           </h1>
+        <div className="flex flex-wrap -m-4">
+          <h1 className="sm:text-2xl text-2xl font-small text-center title-font mb-4 text-white">
+            Software Engineer
+          </h1>
+          <p className="mb-8 leading-relaxed text-white">
+            I joined NetApp as a software engineer in 2024 September.
+            I am in the High Availability team and is mainly working on the Ontap operating system
+            to handle node failures and minimize data outage and data loss of the product.
+          </p>
+        </div>
         </div>
         <div className="flex flex-wrap -m-4">
           <h1 className="sm:text-2xl text-2xl font-small text-center title-font mb-4 text-white">
+            <br />
+            <br />
             Software Engineer Intern     
           </h1>
           <p className="mb-8 leading-relaxed text-white">
