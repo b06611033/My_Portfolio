@@ -9,9 +9,9 @@ export default function About() {
             Hi, I'm Bryan!
           </h1>
           <p className="mb-8 text-white leading-relaxed">
-            I am a software engineer at NetApp with a Computer Science degree from Texas A&M University. 
-            I enjoy writing code, and my interest includes System Programming, Backend Development, and Artificial Intelligence.
-            Feel free to contact me!
+            I am a software engineer at NetApp with a Computer Science degree from Texas A&M University.<br />
+            I enjoy writing code, and my interest includes System Programming, Backend Development, and Artificial Intelligence.<br />
+            Feel free to contact me!<br />
           </p>
           <div className="flex justify-center">
             <a
