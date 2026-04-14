@@ -10,9 +10,13 @@ export default function Extracurricular() {
           </h1>
           <p className="mb-8 text-white leading-relaxed">
             I love playing soccer! I am a die hard Messi fan who supports FC Barcelona and Argentina.
-            In 2018, I joined the soccer varsity team of National Taiwan University, where I played as left wing/right back for 3 years.
-            I also enjoy traveling, and I have traveled to places including Grand Canyon, Zion, Yosemite, Redwood, Sequoia, Joshua Tree, Kings Canyon
-            Mesa Verde, Black Canyon, Rocky Mountain. I look forward to visiting more places!
+            In 2018, I joined the soccer varsity team of National Taiwan University, where I played left wing/right back for 3 years.
+            I also enjoy traveling, especially to national parks with natures and great views.
+            Here is a list of national park I've visited:
+            Grand Canyon, Zion, Arches, Canyonland, Acadia, Yellowstone, Grand Teton, 
+            Yosemite, Redwood, Sequoia, Kings Canyon, Joshua Tree, Death Valley, 
+            Mesa Verde, Black Canyon, Rocky Mountain. 
+            I look forward to visiting more places!
           </p>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">

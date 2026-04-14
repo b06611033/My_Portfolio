@@ -10,8 +10,8 @@ export default function About() {
           </h1>
           <p className="mb-8 text-white leading-relaxed">
             I am a software engineer at NetApp with a Computer Science degree from Texas A&M University. 
-            I enjoy writing code, and have gained proficiency in system programming from my experience at NetApp.
-            My interest includes Operating System, Backend Development, and Artificial Intelligence, feel free to contact me!
+            I enjoy writing code, and my interest includes System Programming, Backend Development, and Artificial Intelligence.
+            Feel free to contact me!
           </p>
           <div className="flex justify-center">
             <a
