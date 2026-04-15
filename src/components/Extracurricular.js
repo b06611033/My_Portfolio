@@ -12,7 +12,7 @@ export default function Extracurricular() {
             I love playing soccer! I am a die hard Messi fan who supports FC Barcelona and Argentina.<br />
             In 2018, I joined the soccer varsity team of National Taiwan University, where I played left wing/right back for 3 years.<br />
             I also enjoy traveling, especially to national parks with natures and great views.<br />
-            Here is a list of national park I've visited:<br />
+            Here is a list of national parks I've visited:<br />
             Grand Canyon, Zion, Arches, Canyonland, Acadia, Yellowstone, Grand Teton, 
             Yosemite, Redwood, Sequoia, Kings Canyon, Joshua Tree, Death Valley, 
             Mesa Verde, Black Canyon, Rocky Mountain. <br />
